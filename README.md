@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**dbagnara72/dbagnara72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Main Projects</h3>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/dbagnara72/library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=library" alt="library" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/modelization-and-control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=modelization-and-control" alt="modelization-and-control" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/solid-state-transformers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=solid-state-transformers" alt="solid-state-transformers" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=lectures-on-advanced-control-engineering" alt="lectures-on-advanced-control-engineering" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/adaptive-control">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=adaptive-control" alt="adaptive-control" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/documentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/advanced-control-engineering">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
+  </a>
+
+  <a href="https://github.com/dbagnara72/double-pulse-tests">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=double-pulse-tests" alt="double-pulse-tests" />
+  </a>
+
+</div>
