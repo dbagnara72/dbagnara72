@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Here a collection of repos regarding power electronics and control system engineering, basically Matlab/Simulink/Simscape. If you want to use these repositories you must download the repo **library** and added to the matlab path (with subfolders). This repo contains simscape components, masked models, and C-code used into the C-Callers.
+
+Each repository includes a README file with comprehensive instructions for potential users.
+
 <h3 align="center">Main Projects</h3>
 
 <div align="center">
