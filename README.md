@@ -32,8 +32,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
   </a>
 
-  <a href="https://github.com/dbagnara72/double-pulse-tests">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=double-pulse-tests" alt="double-pulse-tests" />
+  <a href="https://github.com/dbagnara72/double_pulse_tests">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=double_pulse_tests" alt="double_pulse_tests" />
   </a>
   
 </div>
