@@ -1,4 +1,4 @@
-## Hi there 👋
+## Power Electronics and Control System Laboratory
 
 Here a collection of repos regarding power electronics and control system engineering most developed in Matlab/Simulink/Simscape and C-code.
 
