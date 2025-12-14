@@ -1,5 +1,8 @@
 ## Power Electronics and Control System Laboratory
 
+<p align="center">
+  <img src="./images/logo.png" width="200" title="Logo hover text">
+</p>
 Here a collection of repos regarding power electronics and control system engineering most developed in Matlab/Simulink/Simscape and C-code.
 
 If you want to use these repositories you must download the repo **library** and added to the matlab path (with subfolders). This repo contains simscape components, masked models, and C-code used into the C-Callers.
