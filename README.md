@@ -4,7 +4,7 @@
   <img src="./images/ups_single_phase_6kVA.jpg" width="500" title="UPS 6kVA">
 </p>
 <p align="center">
-  <img src="./images/poster.jpg" width="500" title="Solid State Transformer">
+  <img src="./images/poster.jpg" width="650" title="Solid State Transformer">
 </p>
 Here a collection of repos regarding power electronics and control system engineering most developed in Matlab/Simulink/Simscape and C-code.
 
