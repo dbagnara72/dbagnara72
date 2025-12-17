@@ -12,40 +12,49 @@ If you want to use these repositories you must download the repo **library** and
 
 Each repository includes a README file with comprehensive instructions for potential users.
 
-<h3 align="center">Main Projects</h3>
+<h2 align="left"> Description of the Repositories </h2>
 
+<h3 align="left"> Library </h3>
+This repository contains matlab/simscape/library used along all others repositories, and should be added to the matlab path. This repo contains also documents linked by models.
 <div align="center">
-
   <a href="https://github.com/dbagnara72/library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=library" alt="library" />
   </a>
-
-  <a href="https://github.com/dbagnara72/modelization-and-control">
+</div>
+<h3 align="left">Modelization and Control</h3>
+This repo contains a collection of projects and models mainly focused on power electronics. There are also some applications in mechanics, specifically for smoothing oscillations on a flexible shaft. Additionally, the repo includes models of semiconductor devices, though these are still under construction.
+<div align="center">
+<a href="https://github.com/dbagnara72/modelization-and-control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=modelization-and-control" alt="modelization-and-control" />
   </a>
-
+</div>
+<h3 align="left">Solid State Transformers</h3>
+<p>
+  This repository explores different architectures for Solid State Transformers (SST). 
+  It is designed to cover the full development cycle, from hardware design to 
+  control system implementation.
+</p>
+<div align="center">
   <a href="https://github.com/dbagnara72/solid-state-transformers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=solid-state-transformers" alt="solid-state-transformers" />
   </a>
+</div>
 
-  <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=lectures-on-advanced-control-engineering" alt="lectures-on-advanced-control-engineering" />
-  </a>
-
-  <a href="https://github.com/dbagnara72/adaptive-control">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=adaptive-control" alt="adaptive-control" />
-  </a>
-
-  <a href="https://github.com/dbagnara72/documentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
-  </a>
-
-  <a href="https://github.com/dbagnara72/advanced-control-engineering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
-  </a>
-
-  <a href="https://github.com/dbagnara72/double_pulse_tests">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=double_pulse_tests" alt="double_pulse_tests" />
-  </a>
+<h3 align="left">List of the remaining repos</h3>
+<div align="center">
+    <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=lectures-on-advanced-control-engineering" alt="lectures-on-advanced-control-engineering" />
+    </a>
   
+    <a href="https://github.com/dbagnara72/adaptive-control">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=adaptive-control" alt="adaptive-control" />
+    </a>
+  
+    <a href="https://github.com/dbagnara72/documentation">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
+    </a>
+  
+    <a href="https://github.com/dbagnara72/advanced-control-engineering">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
+    </a>
 </div>
