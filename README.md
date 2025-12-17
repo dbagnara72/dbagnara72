@@ -45,15 +45,12 @@ This repo contains a collection of projects and models mainly focused on power e
     <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=lectures-on-advanced-control-engineering" alt="lectures-on-advanced-control-engineering" />
     </a>
-  
     <a href="https://github.com/dbagnara72/adaptive-control">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=adaptive-control" alt="adaptive-control" />
     </a>
-  
     <a href="https://github.com/dbagnara72/documentation">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
     </a>
-  
     <a href="https://github.com/dbagnara72/advanced-control-engineering">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
     </a>
