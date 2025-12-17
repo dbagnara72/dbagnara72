@@ -39,17 +39,21 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=solid-state-transformers" alt="solid-state-transformers" />
   </a>
 </div>
+<h3 align="left">Documentation</h3>
+<p>
+  Source of the documentation for **solid state transformers** and **modelization and control** repositories.
+</p>
+<div align="center">
+  <a href="https://github.com/dbagnara72/documentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
+  </a>
+</div>
 
-<h3 align="left">List of the remaining repos</h3>
+<h3 align="left">Lectures on advanced control engineering </h3>
+Repositories containing resources created for MCI between 2019 and 2023 for Advanced Control Engineering; these resources are still regularly updated.
 <div align="center">
     <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=lectures-on-advanced-control-engineering" alt="lectures-on-advanced-control-engineering" />
-    </a>
-    <a href="https://github.com/dbagnara72/adaptive-control">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=adaptive-control" alt="adaptive-control" />
-    </a>
-    <a href="https://github.com/dbagnara72/documentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
     </a>
     <a href="https://github.com/dbagnara72/advanced-control-engineering">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
