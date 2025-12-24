@@ -40,7 +40,21 @@ This repo contains a collection of projects and models mainly focused on power e
   </a>
 </div>
 <h3 align="left">Repos Documentation</h3>
-<p> Open source documentation for all public repositories and library. </p>
+<p> 
+  This repository contains open source documentation for all public repositories and library, in particular source documentation for:
+  <ul>
+    <li>electrification of heavy duty vehicles;</li>
+    <li>solid state transformers;</li>
+    <li>litium-ion battery modelization;</li>
+    <li>PEM fuel cell modelization;</li>
+    <li>nonlinear observers - mainly taken from Khalil;</li>
+    <li>modelization and vector control of psm;</li>
+    <li>modelization and vector control of im;</li>
+    <li>some concepts in distributed control and effects of parallelization of active grid rectifiers;</li>
+    <li>modelization and control of an flexible shaft;</li>
+    <li>modelization and control of hydrostatic equipments and drivelines; </li>
+  </ul>
+</p>
 <p align="center">
   <a href="https://github.com/dbagnara72/repositories-documentation" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=repositories-documentation" alt="repositories-documentation" />
