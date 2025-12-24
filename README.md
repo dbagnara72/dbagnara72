@@ -46,7 +46,6 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
   </a>
 </div>
-
 <h3 align="left">Lectures on advanced control engineering </h3>
 Repositories containing resources created for MCI between 2019 and 2023 for Advanced Control Engineering; these resources are still regularly updated.
 <div align="center">
