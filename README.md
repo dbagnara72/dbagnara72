@@ -39,13 +39,13 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=solid-state-transformers" alt="solid-state-transformers" />
   </a>
 </div>
-<h3 align="left">Documentation</h3>
+<h3 align="left">Repos Documentation</h3>
 <p>
   Open source documentation for all public repositories and library.
 </p>
 <div align="center">
-  <a href="https://github.com/dbagnara72/documentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
+  <a href="https://github.com/dbagnara72/repositories-documentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=repositories-documentation" alt="repositories-documentation" />
   </a>
 </div>
 <h3 align="left">Lectures on advanced control engineering</h3>
