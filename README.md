@@ -40,7 +40,7 @@ This repo contains a collection of projects and models mainly focused on power e
   </a>
 </div>
 <h3 align="left">Documentation</h3>
-  Source of the documentation for **solid state transformers** and **modelization and control** repositories.
+  Open source documentation for all public repositories.
 <div align="center">
   <a href="https://github.com/dbagnara72/documentation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
