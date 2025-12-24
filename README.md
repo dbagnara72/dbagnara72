@@ -40,13 +40,15 @@ This repo contains a collection of projects and models mainly focused on power e
   </a>
 </div>
 <h3 align="left">Documentation</h3>
-  Open source documentation for all public repositories.
+<p>
+  Open source documentation for all public repositories and library.
+</p>
 <div align="center">
   <a href="https://github.com/dbagnara72/documentation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=documentation" alt="documentation" />
   </a>
 </div>
-<h3 align="left">Lectures on advanced control engineering </h3>
+<h3 align="left">Lectures on advanced control engineering</h3>
 Repositories containing resources created for MCI between 2019 and 2023 for Advanced Control Engineering; these resources are still regularly updated.
 <div align="center">
     <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
