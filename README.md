@@ -53,6 +53,7 @@ This repo contains a collection of projects and models mainly focused on power e
     <li>some concepts in distributed control and effects of parallelization of active grid rectifiers;</li>
     <li>modelization and control of an flexible shaft;</li>
     <li>modelization and control of hydrostatic equipments and drivelines; </li>
+    <li>control of string-actuated. </li>
   </ul>
 </p>
 <p align="center">
