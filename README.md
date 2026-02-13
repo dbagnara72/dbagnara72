@@ -1,10 +1,16 @@
 ## Power Electronics and Control System Laboratory
 
 <p align="center">
-  <img src="./images/ups_single_phase_6kVA.jpg" width="500" title="UPS 6kVA">
+  <img src="./images/flying_capacitor_multilevel.jpg" width="500" title="flying capacitor multilevel">
+</p>
+<p align="center">
+  <img src="./images/ups_6kVA.jpg" width="750" title="Solid State Transformer">
 </p>
 <p align="center">
   <img src="./images/sst.jpg" width="750" title="Solid State Transformer">
+</p>
+<p align="center">
+  <img src="./images/single_phase.jpg" width="750" title="Solid State Transformer">
 </p>
 Here a collection of repos regarding power electronics and control system engineering most developed in Matlab/Simulink/Simscape and C-code.
 
