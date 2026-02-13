@@ -10,7 +10,7 @@
   <img src="./images/sst.jpg" width="750" title="Solid State Transformer">
 </p>
 <p align="center">
-  <img src="./images/single_phase.jpg" width="500" title="Solid State Transformer">
+  <img src="./images/single_phase.jpg" width="750" title="Solid State Transformer">
 </p>
 Here a collection of repos regarding power electronics and control system engineering most developed in Matlab/Simulink/Simscape and C-code.
 
