@@ -1,6 +1,9 @@
 ## Power Electronics and Control System Laboratory
 
 <p align="center">
+  <img src="./images/FHT_dqPLL_2.jpg" width="750" title="FHT-SR-dqPLL">
+</p>
+<p align="center">
   <img src="./images/flying_capacitor_multilevel.jpg" width="750" title="flying capacitor multilevel">
 </p>
 <p align="center">
