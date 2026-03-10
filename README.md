@@ -18,9 +18,7 @@
 <p align="center">
   <img src="./images/sst.jpg" width="750" title="Solid State Transformer">
 </p>
-<p align="center">
-  <img src="./images/single_phase.jpg" width="750" title="Solid State Transformer">
-</p>
+
 Here a collection of repos regarding power electronics and control system engineering most developed in Matlab/Simulink/Simscape and C-code.
 
 If you want to use these repositories you must download the repo **library** and added to the matlab path (with subfolders). This repo contains simscape components, masked models, and C-code used into the C-Callers.
