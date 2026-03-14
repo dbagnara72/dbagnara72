@@ -73,8 +73,7 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=solid-state-transformers" alt="solid-state-transformers" />
   </a>
 </div>
-('
-<h3 align="left">Repos Documentation</h3>
+<!-- <h3 align="left">Repos Documentation</h3>
 <p> 
   This repository contains open source documentation for all public repositories and library, in particular source documentation for:
   <ul>
@@ -95,8 +94,7 @@ This repo contains a collection of projects and models mainly focused on power e
   <a href="https://github.com/pwr-control/repositories-documentation" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=repositories-documentation" alt="repositories-documentation" />
   </a>
-</p>
-')
+</p> -->
 <h3 align="left">Lectures on advanced control engineering</h3>
 Repositories containing resources created for MCI between 2019 and 2023 for Advanced Control Engineering; these resources are still regularly updated.
 <div align="center">
