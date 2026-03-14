@@ -30,14 +30,21 @@ Each repository includes a README file with comprehensive instructions for poten
 <h3 align="left"> Library </h3>
 This repository contains matlab/simscape/library used along all others repositories, and should be added to the matlab path. This repo contains also documents linked by models.
 <div align="center">
-  <a href="https://github.com/dbagnara72/library">
+  <a href="https://github.com/pwr-control/library">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=library" alt="library" />
+  </a>
+</div>
+<h3 align="left"> Grif Forming </h3>
+This repository contains an analysis and investigations about the design of grid-forming control architectures.
+<div align="center">
+  <a href="https://github.com/pwr-control/grid-forming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=grid-forming" alt="grid-forming" />
   </a>
 </div>
 <h3 align="left">Modelization and Control</h3>
 This repo contains a collection of projects and models mainly focused on power electronics. There are also some applications in mechanics, specifically for smoothing oscillations on a flexible shaft. Additionally, the repo includes models of semiconductor devices, though these are still under construction.
 <div align="center">
-<a href="https://github.com/dbagnara72/modelization-and-control">
+<a href="https://github.com/pwr-control/modelization-and-control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=modelization-and-control" alt="modelization-and-control" />
   </a>
 </div>
@@ -48,7 +55,7 @@ This repo contains a collection of projects and models mainly focused on power e
   control system implementation.
 </p>
 <div align="center">
-  <a href="https://github.com/dbagnara72/solid-state-transformers">
+  <a href="https://github.com/pwr-control/solid-state-transformers">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=solid-state-transformers" alt="solid-state-transformers" />
   </a>
 </div>
@@ -70,17 +77,17 @@ This repo contains a collection of projects and models mainly focused on power e
   </ul>
 </p>
 <p align="center">
-  <a href="https://github.com/dbagnara72/repositories-documentation" >
+  <a href="https://github.com/pwr-control/repositories-documentation" >
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=repositories-documentation" alt="repositories-documentation" />
   </a>
 </p>
 <h3 align="left">Lectures on advanced control engineering</h3>
 Repositories containing resources created for MCI between 2019 and 2023 for Advanced Control Engineering; these resources are still regularly updated.
 <div align="center">
-    <a href="https://github.com/dbagnara72/lectures-on-advanced-control-engineering">
+    <a href="https://github.com/pwr-control/lectures-on-advanced-control-engineering">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=lectures-on-advanced-control-engineering" alt="lectures-on-advanced-control-engineering" />
     </a>
-    <a href="https://github.com/dbagnara72/advanced-control-engineering">
+    <a href="https://github.com/pwr-control/advanced-control-engineering">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=advanced-control-engineering" alt="advanced-control-engineering" />
     </a>
 </div>
