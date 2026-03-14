@@ -41,6 +41,13 @@ This repository contains an analysis and investigations about the design of grid
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=grid-forming" alt="grid-forming" />
   </a>
 </div>
+<h3 align="left"> Control of Electrical Machines </h3>
+This repository contains and investigations on electrical machine control exploring different control approaches. Electrical machines concerns permanent magnet synchrnous motor and induction motor.
+<div align="center">
+  <a href="https://github.com/pwr-control/control-of-electrical-machine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=control-of-electrical-machine" alt="control-of-electrical-machine" />
+  </a>
+</div>
 <h3 align="left">Modelization and Control</h3>
 This repo contains a collection of projects and models mainly focused on power electronics. There are also some applications in mechanics, specifically for smoothing oscillations on a flexible shaft. Additionally, the repo includes models of semiconductor devices, though these are still under construction.
 <div align="center">
