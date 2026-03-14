@@ -34,14 +34,14 @@ This repository contains matlab/simscape/library used along all others repositor
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=library" alt="library" />
   </a>
 </div>
-<h3 align="left"> Grif Forming </h3>
-This repository contains an analysis and investigations about the design of grid-forming control architectures.
+<h3 align="left"> Unified Power Quality Conditioner </h3>
+This repository contains an analysis and investigations about the design of Unified Power Quality Conditioners.
 <div align="center">
   <a href="https://github.com/pwr-control/unified-power-quality-conditioner">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dbagnara72&repo=unified-power-quality-conditioner" alt="unified-power-quality-conditioner" />
   </a>
 </div>
-<h3 align="left"> Grif Forming </h3>
+<h3 align="left"> Grid Forming </h3>
 This repository contains an analysis and investigations about the design of grid-forming control architectures.
 <div align="center">
   <a href="https://github.com/pwr-control/grid-forming">
