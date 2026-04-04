@@ -34,6 +34,15 @@ This repository contains matlab/simscape/library used along all others repositor
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=library" alt="library" />
   </a>
 </div>
+
+<h3 align="left"> Advanced DC/DC Converters </h3>
+In this repo we explore and analysis different DCDC configuration like CLLC, Single-Phase-DAB, Three-Phase-DAB.
+<div align="center">
+  <a href="https://github.com/pwr-control/advanced-dcdc-converters">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=advanced-dcdc-converters" alt="advanced-dcdc-converters" />
+  </a>
+</div>
+
 <h3 align="left"> Left-Shunt-Unified-Power-Quality-Conditioner (LS-UPQC) </h3>
 Unified Power Quality Conditioner Theory, Design and Control. Ancillary services, voltage stabiliser.
 <div align="center">
@@ -41,6 +50,7 @@ Unified Power Quality Conditioner Theory, Design and Control. Ancillary services
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=left-shunt-unified-power-quality-conditioner" alt="left-shunt-unified-power-quality-conditioner" />
   </a>
 </div>
+
 <h3 align="left"> Grid Forming </h3>
 This repository contains an analysis and investigations about the design of grid-forming control architectures.
 <div align="center">
@@ -48,6 +58,7 @@ This repository contains an analysis and investigations about the design of grid
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=grid-forming" alt="grid-forming" />
   </a>
 </div>
+
 <h3 align="left"> Control of Electrical Machines </h3>
 This repository contains and investigations on electrical machine control exploring different control approaches. Electrical machines concerns permanent magnet synchrnous motor and induction motor.
 <div align="center">
@@ -55,6 +66,7 @@ This repository contains and investigations on electrical machine control explor
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=control-of-electrical-machine" alt="control-of-electrical-machine" />
   </a>
 </div>
+
 <h3 align="left">Modelization and Control</h3>
 This repo contains a collection of projects and models mainly focused on power electronics. There are also some applications in mechanics, specifically for smoothing oscillations on a flexible shaft. Additionally, the repo includes models of semiconductor devices, though these are still under construction.
 <div align="center">
@@ -62,6 +74,7 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=modelization-and-control" alt="modelization-and-control" />
   </a>
 </div>
+
 <h3 align="left">Solid State Transformers</h3>
 <p>
   This repository explores different architectures for Solid State Transformers (SST). 
@@ -73,6 +86,7 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=solid-state-transformers" alt="solid-state-transformers" />
   </a>
 </div>
+
 <!-- <h3 align="left">Repos Documentation</h3>
 <p> 
   This repository contains open source documentation for all public repositories and library, in particular source documentation for:
@@ -95,6 +109,7 @@ This repo contains a collection of projects and models mainly focused on power e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=repositories-documentation" alt="repositories-documentation" />
   </a>
 </p> -->
+
 <h3 align="left">Lectures on advanced control engineering</h3>
 Repositories containing resources created for MCI between 2019 and 2023 for Advanced Control Engineering; these resources are still regularly updated.
 <div align="center">
