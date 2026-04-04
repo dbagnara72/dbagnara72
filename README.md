@@ -34,11 +34,11 @@ This repository contains matlab/simscape/library used along all others repositor
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=library" alt="library" />
   </a>
 </div>
-<h3 align="left"> Flipped Unified Power Quality Conditioner </h3>
-This repository contains an analysis and investigations about the design of Flipped Unified Power Quality Conditioners.
+<h3 align="left"> Left-Shunt-Unified-Power-Quality-Conditioner (LS-UPQC) </h3>
+Unified Power Quality Conditioner Theory, Design and Control. Ancillary services, voltage stabiliser.
 <div align="center">
-  <a href="https://github.com/pwr-control/flipped-unified-power-quality-conditioner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=flipped-unified-power-quality-conditioner" alt="flipped-unified-power-quality-conditioner" />
+  <a href="https://github.com/pwr-control/left-shunt-unified-power-quality-conditioner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=left-shunt-unified-power-quality-conditioner" alt="left-shunt-unified-power-quality-conditioner" />
   </a>
 </div>
 <h3 align="left"> Grid Forming </h3>
