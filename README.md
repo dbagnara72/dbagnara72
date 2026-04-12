@@ -67,13 +67,13 @@ This repository contains and investigations on electrical machine control explor
   </a>
 </div>
 
-<h3 align="left">Modelization and Control</h3>
+<!-- <h3 align="left">Modelization and Control</h3>
 This repo contains a collection of projects and models mainly focused on power electronics. There are also some applications in mechanics, specifically for smoothing oscillations on a flexible shaft. Additionally, the repo includes models of semiconductor devices, though these are still under construction.
 <div align="center">
 <a href="https://github.com/pwr-control/modelization-and-control">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=modelization-and-control" alt="modelization-and-control" />
   </a>
-</div>
+</div> -->
 
 <h3 align="left">Solid State Transformers</h3>
 <p>
