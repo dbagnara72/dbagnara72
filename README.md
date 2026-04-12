@@ -51,13 +51,13 @@ Unified Power Quality Conditioner Theory, Design and Control. Ancillary services
   </a>
 </div>
 
-<h3 align="left"> Grid Forming </h3>
+<!--  <h3 align="left"> Grid Forming </h3>
 This repository contains an analysis and investigations about the design of grid-forming control architectures.
 <div align="center">
   <a href="https://github.com/pwr-control/grid-forming">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwr-control&repo=grid-forming" alt="grid-forming" />
   </a>
-</div>
+</div> -->
 
 <h3 align="left"> Control of Electrical Machines </h3>
 This repository contains and investigations on electrical machine control exploring different control approaches. Electrical machines concerns permanent magnet synchrnous motor and induction motor.
