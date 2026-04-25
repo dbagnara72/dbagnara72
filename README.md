@@ -1,9 +1,8 @@
 ## Power Electronics and Control System Laboratory
 
 
-<p align="center">
   [![Grid Impact on AFE Control](https://img.youtube.com/vi/1gHB7j3MyPg/maxresdefault.jpg)](https://www.youtube.com/watch?v=1gHB7j3MyPg)
-</p>
+
 <p align="center">
   <img src="./images/single_phase_afe_ctrl.jpg" width="750" title="single_phase_afe_ctrl">
 </p>
