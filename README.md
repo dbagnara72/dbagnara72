@@ -1,8 +1,9 @@
 ## Power Electronics and Control System Laboratory
 
 
- [![Grid Impact on AFE Control](https://img.youtube.com/vi/6orHQiUX2Qk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6orHQiUX2Qk)
+ [![Fun With UPQC](https://img.youtube.com/vi/CpAwwjtFMpE/maxresdefault.jpg)](https://www.youtube.com/watch?v=CpAwwjtFMpE)
 
+ [![Grid Impact on AFE Control](https://img.youtube.com/vi/6orHQiUX2Qk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6orHQiUX2Qk)
 <p align="center">
   <img src="./images/single_phase_afe_ctrl.jpg" width="750" title="single_phase_afe_ctrl">
 </p>
