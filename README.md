@@ -1,7 +1,7 @@
 ## Power Electronics and Control System Laboratory
 
 
- [![Fun With UPQC](https://img.youtube.com/vi/lP7VQ2NaYIE/maxresdefault.jpg)](https://www.youtube.com/watch?v=lP7VQ2NaYIE)
+ [![Fun With UPQC](https://img.youtube.com/vi/8lyu1KaK0Xk/maxresdefault.jpg)](https://www.youtube.com/watch?v=8lyu1KaK0Xk)
 
  [![Grid Impact on AFE Control](https://img.youtube.com/vi/6orHQiUX2Qk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6orHQiUX2Qk)
  
