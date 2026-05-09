@@ -9,9 +9,6 @@
   <img src="./images/single_phase_afe_ctrl.jpg" width="750" title="single_phase_afe_ctrl">
 </p>
 <p align="center">
-  <img src="./images/cllc_ctrl.jpg" width="750" title="cllc_ctrl">
-</p>
-<p align="center">
   <img src="./images/FHT_dqPLL_2.jpg" width="750" title="FHT-SR-dqPLL">
 </p>
 <p align="center">
