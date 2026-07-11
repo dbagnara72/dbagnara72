@@ -1,7 +1,7 @@
 ## Power Electronics and Control System Laboratory
 
 
- [![Fun With DAB3](https://img.youtube.com/vi/2_LkWHoYVdM/maxresdefault.jpg)](https://www.youtube.com/watch?v=sjfaFL99E5s)
+ [![Fun With DAB3](https://img.youtube.com/vi/sjfaFL99E5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=sjfaFL99E5s)
  
  [![Fun With UPQC](https://img.youtube.com/vi/2_LkWHoYVdM/maxresdefault.jpg)](https://www.youtube.com/watch?v=2_LkWHoYVdM)
 
