@@ -1,12 +1,31 @@
 ## Power Electronics and Control System Laboratory
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=sjfaFL99E5s">
+        <img src="https://img.youtube.com/vi/sjfaFL99E5s/hqdefault.jpg" width="350" alt="Video 1">
+      </a><br>
+      <b>Fun With DAB3</b>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=2_LkWHoYVdM">
+        <img src="https://img.youtube.com/vi/2_LkWHoYVdM/hqdefault.jpg" width="350" alt="Video 2">
+      </a><br>
+      <b>Fun With UPQC</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=6orHQiUX2Qk">
+        <img src="https://img.youtube.com/vi/6orHQiUX2Qk/hqdefault.jpg" width="350" alt="Video 3">
+      </a><br>
+      <b>Fun With Multi-AFE</b>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
- [![Fun With DAB3](https://img.youtube.com/vi/sjfaFL99E5s/maxresdefault.jpg)](https://www.youtube.com/watch?v=sjfaFL99E5s)
- 
- [![Fun With UPQC](https://img.youtube.com/vi/2_LkWHoYVdM/maxresdefault.jpg)](https://www.youtube.com/watch?v=2_LkWHoYVdM)
-
- [![Grid Impact on AFE Control](https://img.youtube.com/vi/6orHQiUX2Qk/maxresdefault.jpg)](https://www.youtube.com/watch?v=6orHQiUX2Qk)
- 
 <p align="center">
   <img src="./images/single_phase_afe_ctrl.jpg" width="750" title="single_phase_afe_ctrl">
 </p>
