@@ -6,13 +6,13 @@
       <a href="https://www.youtube.com/watch?v=sjfaFL99E5s">
         <img src="https://img.youtube.com/vi/sjfaFL99E5s/hqdefault.jpg" width="350" alt="Video 1">
       </a><br>
-      <b>Fun With DAB3</b>
+      <b>Fun with DAB3</b>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/watch?v=2_LkWHoYVdM">
         <img src="https://img.youtube.com/vi/2_LkWHoYVdM/hqdefault.jpg" width="350" alt="Video 2">
       </a><br>
-      <b>Fun With UPQC</b>
+      <b>Fun with UPQC</b>
     </td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
       <a href="https://www.youtube.com/watch?v=6orHQiUX2Qk">
         <img src="https://img.youtube.com/vi/6orHQiUX2Qk/hqdefault.jpg" width="350" alt="Video 3">
       </a><br>
-      <b>Fun With FHT-DQ-PLL</b>
+      <b>Fun with FHT-DQ-PLL</b>
     </td>
     <td></td>
   </tr>
