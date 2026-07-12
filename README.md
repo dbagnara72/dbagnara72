@@ -20,7 +20,7 @@
       <a href="https://www.youtube.com/watch?v=6orHQiUX2Qk">
         <img src="https://img.youtube.com/vi/6orHQiUX2Qk/hqdefault.jpg" width="350" alt="Video 3">
       </a><br>
-      <b>Fun With Multi-AFE</b>
+      <b>Fun With FHT-DQ-PLL</b>
     </td>
     <td></td>
   </tr>
